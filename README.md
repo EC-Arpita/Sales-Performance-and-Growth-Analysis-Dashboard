@@ -33,7 +33,7 @@ The dataset includes the following columns:
 ## 📈 Dashboard Preview
 The dashboard is designed to be interactive and easy to interpret, with slicers and filters for flexible analysis.
 
-**Screenshot Link:** [🖼 View Dashboard](<img width="1471" height="670" alt="Screenshot (45)" src="https://github.com/user-attachments/assets/5b5414b6-6ff4-4db4-b44d-a51167af8b35" />
+**Screenshot Link:**(<img width="1471" height="670" alt="Screenshot (45)" src="https://github.com/user-attachments/assets/5b5414b6-6ff4-4db4-b44d-a51167af8b35" />
 )
 
 ---
